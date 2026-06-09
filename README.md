@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impotato28&label=Profile%20views&color=0e75b6&style=flat" alt="impotato28" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.imgflip.com/5yauub.gif">
 
-<p align="left"> <a href="https://twitter.com/impotato28" target="blank"><img src="https://img.shields.io/twitter/follow/impotato28?logo=twitter&style=for-the-badge" alt="impotato28" /></a> </p>
-
 - 🔭 I’m currently working on **Car Website**
 
 - 🌱 I’m currently learning **React.js**
