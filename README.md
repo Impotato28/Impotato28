@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Technology**
 
-- 📫 How to reach me **rawatsanjay2800@gmail.com**
+- 📫 How to reach me **sanjayrawat28112006@gmail.com**
 
 - ⚡ Fun fact **I want to be a big bug then i will eat small bugs**
 
